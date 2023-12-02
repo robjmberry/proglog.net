@@ -1,0 +1,6 @@
+@proglog.net.server_HostAddress = http://localhost:5226
+
+GET {{proglog.net.server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
